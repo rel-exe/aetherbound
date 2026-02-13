@@ -1,2 +1,2 @@
 # aetherbound
-a web-based rpg
+a web-based, text-based rpg
